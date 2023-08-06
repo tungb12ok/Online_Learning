@@ -24,7 +24,7 @@ Clone the repository: git clone https://github.com/tungb12ok/Online_Learning.git
 Install Java JDK and set up your development environment.
 Set up the required database and configure the database connection in the application.
 Build and deploy the application to your preferred web server.
-Contributing
+Contributing.
 If you wish to contribute to the project, please follow the guidelines in CONTRIBUTING.md.
 
 # License
